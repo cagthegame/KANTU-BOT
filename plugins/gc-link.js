@@ -6,7 +6,7 @@ const handler = async (m, {conn, args}) => {
       title: '𝙻𝙸𝙽𝙺 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾',
       body: '𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝',
       previewType: 0, thumbnail: fs.readFileSync('./Menu2.jpg'),
-      sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}});
+      sourceUrl: `https://github.com/cagthegame/KANTU-BOT`}}});
 };
 handler.help = ['linkgroup'];
 handler.tags = ['group'];
